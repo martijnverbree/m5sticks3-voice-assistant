@@ -1,8 +1,8 @@
 M5StickS3 AI Voice Assistant for Kids
-A pocket-sized voice assistant built for my 8-year-old son, running on an M5StickS3 (ESP32-S3). Press a button, ask a question out loud, and get a simple answer on screen — no phone or screen required.
+A pocket-sized voice assistant built for my 10-year-old son, running on an M5StickS3 (ESP32-S3). Press a button, ask a question out loud, and get a simple answer on screen — no phone or screen required.
 How it works:
 
-Press the front button to record a 3-second voice clip
+Press the front button to record a 5-second voice clip
 Audio is transcribed using OpenAI Whisper (speech-to-text)
 The transcribed question is sent to GPT-4o-mini with a child-friendly system prompt
 The answer (20 words or fewer) is displayed on the built-in screen
